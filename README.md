@@ -60,4 +60,5 @@ Looking forward to seeing your code!
 
 ### Design
 
-![alt text](https://github.com/cokuscz/CarroFlutterTest/blob/main/ux-design.mp4)
+[![Watch the video](https://github.com/cokuscz/CarroFlutterTest/blob/main/ux-design.mp4)](https://youtu.be/lxpKDwwV-Qc)
+
