@@ -49,7 +49,7 @@ If you write tests in your daily work, we would love to see them in this exercis
 
 #### Git and Commit History
 
-Sync your app to GitHub and allow access to `heinhtetaung92` and `cokuscz`.
+Sync your app to GitHub and allow access to `cokuscz`.
 
 Please maintain a descriptive and clear Git commit history as it would allow us to better understand your thought process.
 
