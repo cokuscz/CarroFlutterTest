@@ -1,29 +1,27 @@
 # CarroFlutterTest
 
-# CarroFlutterTest
-
 ## Flutter Engineer
 
 ### Background
 
-In Carro, we are often required to build mobile apps backed by internal data APIs
-to communicate critical and relevant information to our stakeholders and consumers.
+In Carro, we are often display some types reports， so i wanna u can do it.
 
 ### Your Task
 
 Build an FLutter app to display vehicle information base on user's country. 
 
-Please use the data from https://gist.githubusercontent.com/heinhtetaung92/fbfd371881e6982c71971eedd5732798/raw/00e14e0e5502dbcf1ea9a2cdc44324fd3a5492e7/test.json and display it accordingly to design.
+Please use the data from https://gist.githubusercontent.com/cokuscz/19e6a3eff017323b097561ee4724d474/raw/29cc92e42e8953a26ec7622c255c5323c885bf39/report_data.json and display it accordingly to design.
 
-Before display the UI, user must be able to choose options for the country.
+Before display the UI.
 
 Please refer to the design below for UI.
+1. request a
 
 
 We will evaluate this exercise based on:
 
 - Completion of the application
-- User Interface
+- Report Interface
 - Code Structure
 - Tests
 
@@ -33,7 +31,7 @@ You may use any Testing framework of your choice to write the unit tests.
 
 #### Time
 
-7 days from this task is given. Please feel free to submit your work any time, before the deadline.
+3 days from this task is given. Please feel free to submit your work any time, before the deadline.
 
 Please timebox yourself to a maximum of 8 hours for this activity.
 
