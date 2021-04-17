@@ -60,4 +60,4 @@ Looking forward to seeing your code!
 
 ### Design
 
-![alt text](https://github.com/cokuscz/CarroFlutterTest/blob/main/reprot_detail_design.png)
+![alt text](https://github.com/cokuscz/CarroFlutterTest/blob/main/ux-design.mp4)
