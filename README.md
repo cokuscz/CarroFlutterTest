@@ -4,11 +4,11 @@
 
 ### Background
 
-In Carro, we are often display some types reports， so i wanna u can do it.
+In Carro, we are often display some types reports， so we wanna u can do it.
 
 ### Your Task
 
-Build an FLutter app to display vehicle information base on user's country. 
+Build an Flutter app to display vehicle information base on user's country. 
 
 Please use the data from https://gist.githubusercontent.com/cokuscz/19e6a3eff017323b097561ee4724d474/raw/29cc92e42e8953a26ec7622c255c5323c885bf39/report_data.json and display it accordingly to design.
 
