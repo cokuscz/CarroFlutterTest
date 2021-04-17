@@ -15,7 +15,9 @@ Please use the data from https://gist.githubusercontent.com/cokuscz/19e6a3eff017
 Before display the UI.
 
 Please refer to the design below for UI.
-1. request a
+1. request gist api 
+2. according to the video to complete it
+3. handling scroll listener to update tab index
 
 
 We will evaluate this exercise based on:
@@ -60,5 +62,5 @@ Looking forward to seeing your code!
 
 ### Design
 
-[!Watch the video](https://youtu.be/lxpKDwwV-Qc)
+[Watch the video](https://youtu.be/lxpKDwwV-Qc)
 
