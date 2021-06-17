@@ -39,7 +39,7 @@ Please timebox yourself to a maximum of 8 hours for this activity.
 
 #### Technology
 
-You are required to use Kotlin.
+You are required to use Dart.
 
 #### Testing
 
